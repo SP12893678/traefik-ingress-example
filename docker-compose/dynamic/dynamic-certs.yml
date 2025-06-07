@@ -1,0 +1,4 @@
+tls:
+  certificates:
+    - certFile: /certs/whoami.traefik.me.pem
+      keyFile: /certs/whoami.traefik.me-key.pem

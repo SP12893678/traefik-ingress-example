@@ -5,7 +5,7 @@
 - docker
 - helm
 - kind
-- [mkcer](https://github.com/FiloSottile/mkcert)
+- [mkcert](https://github.com/FiloSottile/mkcert)
 
 ## Setup
 
